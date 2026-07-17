@@ -19,7 +19,7 @@ function App() {
         <div className="glassdivcontentbox1">
           <h1>Hi! I'm John David Lano!</h1>
           <div className="imgborder">
-            <img src={profile} alt="Photo" />
+            <img src={profile}/>
           </div>
           <h2>About Me</h2>
           <p>An Information Technology student at NU MOA. Currently in his senior year of college.</p>
